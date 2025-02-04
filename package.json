@@ -1,0 +1,14 @@
+{
+  "name": "websocket-debug-server",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://github.com/arog-lahcim",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "ws": "8.18.0"
+  }
+}
