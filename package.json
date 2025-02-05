@@ -10,5 +10,8 @@
   "description": "",
   "dependencies": {
     "ws": "8.18.0"
+  },
+  "repository": {
+    "url": "https://github.com/aroglahcim/websocket-debug-server"
   }
 }
