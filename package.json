@@ -1,6 +1,6 @@
 {
   "name": "@aroglahcim/websocket-debug-server",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "bin": "./index.js",
   "scripts": {
@@ -14,5 +14,9 @@
   },
   "repository": {
     "url": "https://github.com/aroglahcim/websocket-debug-server"
-  }
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ]
 }
