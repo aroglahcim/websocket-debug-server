@@ -1,12 +1,20 @@
 # Websocket debug server
 
-Listenes for websocket clients, prints reveived messages and broadcasts from STDIN.
+Listenes for websocket clients, prints received messages and broadcasts from STDIN.
 
 ## Run
 
 ```sh
+npx @aroglahcim/websocket-debug-server
+```
+
+or
+
+```sh
 docker run -it -p 8080:8080 --rm aroglahcim/websocket-debug-server
 ```
+
+or
 
 ```sh
 docker compose run --service-ports server
