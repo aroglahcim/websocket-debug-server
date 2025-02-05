@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const WebSocket = require('ws');
 const readline = require('readline');
 const { parseArgs } = require('node:util');
