@@ -1,5 +1,5 @@
 {
-  "name": "websocket-debug-server",
+  "name": "@aroglahcim/websocket-debug-server",
   "version": "0.0.1",
   "main": "index.js",
   "scripts": {
